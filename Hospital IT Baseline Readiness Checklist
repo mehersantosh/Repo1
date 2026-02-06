@@ -1,0 +1,27 @@
+# Hospital IT Baseline Readiness Checklist
+
+This checklist defines the minimum digital baseline required
+before advanced digital health initiatives are undertaken.
+
+## Infrastructure
+- Redundant network connectivity
+- Secure Wi-Fi coverage across clinical areas
+- Server / cloud readiness
+- Backup and disaster recovery mechanisms
+
+## Core Systems
+- HIS / HMIS operational and supported
+- LIS, PACS, RIS integrated or integration-ready
+- User authentication and role-based access
+
+## Security & Compliance
+- Access control policies
+- Audit logs enabled
+- Data privacy controls (DPDP alignment)
+- Incident response plan
+
+## People & Process
+- IT ownership defined
+- Clinical champions identified
+- Vendor SLAs documented
+- Change management process in place
