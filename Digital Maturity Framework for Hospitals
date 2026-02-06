@@ -1,0 +1,31 @@
+# Digital Maturity Framework for Hospitals
+
+Digital health maturity varies widely across hospitals.
+This framework helps assess current state and define a realistic roadmap.
+
+## Level 1 – Foundational
+- Basic IT infrastructure (network, servers, backups)
+- Standalone HIS / billing systems
+- Limited data governance
+- High manual dependency
+
+## Level 2 – Operational
+- EMR/HMIS adoption in core departments
+- PACS/LIS/RIS operational
+- Role-based access controls
+- Basic reporting and dashboards
+
+## Level 3 – Integrated
+- Interoperability between EMR, LIS, PACS
+- Clinical workflows digitized
+- Data quality monitoring
+- Telemedicine and patient engagement tools
+
+## Level 4 – Intelligent
+- Analytics-driven decision making
+- Registries and longitudinal patient data
+- AI/ML used in assistive clinical workflows
+- Continuous quality improvement
+
+## Key Principle
+Hospitals should progress **sequentially**, not skip levels.
